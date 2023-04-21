@@ -1,8 +1,7 @@
 #include <iostream>
-#include "Vec.hpp"
-#include "Vector.hpp"
+#include "Vector.h"
 
 int main()
 {
-	return 0;
+	//...
 }
